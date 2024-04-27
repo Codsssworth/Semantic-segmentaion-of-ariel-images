@@ -1,8 +1,10 @@
 training set from Kaggle https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 
-run simple_multi_unet_model.py \n
-model saved in /model \n
-add images to /test for testing.py \n
+run simple_multi_unet_model.py 
+
+model saved in /model 
+
+add images to /test for testing.py
 
 ![u4](https://github.com/Codsssworth/Semantic-segmentaion-of-ariel-images/assets/44846718/8cfb5a9b-a5f5-4975-a8f9-74e956eb2a21)
 
